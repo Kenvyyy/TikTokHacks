@@ -1,12 +1,12 @@
 Dear [CollegeName] Admissions,
 
-I just finished my senior year of highschool, I am very smart.
+I just finished my senior year of highschool, and I am extremely interested in attending this college.
 It would mean the world to me you could send me a shirt so I could represent your university.
 Could you please send to 
 
-{First and Last Name}
-{Address}
-{Town} {City} {Zip}
+{Kenneth Cullen}
+{989 Canyon Ridge Rd, Apt 101}
+{Blacksburg} {Virginia} {24060}
 
 Thank you,
-{FirstName}
+{Kenneth}
